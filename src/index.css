@@ -3,9 +3,12 @@
 @tailwind utilities;
 
 :root {
-background-color: #e5e5f7;
-opacity: 1;
-background-image:  radial-gradient(#444cf7 2px, transparent 1px), radial-gradient(#444cf7 1px, #e5e5f7 2px);
-background-size: 30px 30px;
-background-position: 0 0,15px 15px;
+  background-color: #e5e5f7;
+  opacity: 1;
+  background-image: radial-gradient(#444cf7 2px, transparent 1px),
+    radial-gradient(#444cf7 1px, #e5e5f7 2px);
+  background-size: 30px 30px;
+  background-position:
+    0 0,
+    15px 15px;
 }
